@@ -1,7 +1,7 @@
-from addBook import add_book
-from viewBook import view_books
-from updateBook import update_book
-from deleteBook import delete_book
+from Domain.addBook import add_book
+from Domain.viewBook import view_books
+from Domain.updateBook import update_book
+from Domain.deleteBook import delete_book
 
 while True:
     print("\n========================")
