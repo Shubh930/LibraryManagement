@@ -1,0 +1,20 @@
+[
+    {
+        "id": "93b32918cb6",
+        "title": "Book",
+        "author": "Sumit",
+        "category": "math",
+        "quantity": 2,
+        "available": 2,
+        "create_date": "2026-06-04"
+    },
+    {
+        "id": "c220707a96a",
+        "title": "rahul",
+        "author": "rahul",
+        "category": "rahul",
+        "quantity": 5,
+        "available": 5,
+        "create_date": "2026-06-04"
+    }
+]
